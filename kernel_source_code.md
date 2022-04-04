@@ -41,7 +41,7 @@ For Debian based distro <Ubuntu>:
 	
 ## Searching the kernel
 *grep -rl* 
--is handy for finding stuff in the documentation directory
+-this grep option is handy for finding stuff in the documentation directory
 >grep -rl ftrace .| grep -v output/
 >make dochelp
 	
