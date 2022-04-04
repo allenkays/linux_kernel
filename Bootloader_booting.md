@@ -49,8 +49,8 @@
 	
 ## init RAMFS Images
 	
--  found in /boot (as initrd/initramfs)
-- should have extension .gz 
+- It is found in /boot (as initrd/initramfs)
+- It should have extension .gz 
 - If you are going to use the cpio command  to extract ensures < --no-absolute-filenames> or use gunzip or unzip
 	
 >> Booting with rdinit=/bin/sh will start a shell in the initramfs. 
