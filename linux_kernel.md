@@ -10,16 +10,16 @@
 			- sys
 			- debug fs
 		- device files (system calls)= device drivers
-- Enforces privileges
-- Executes supervisor instructions
-- Implements security policies
-- Controls access to hardware and other resources
+- It enforces privileges
+- It executes supervisor instructions
+- It implements security policies
+- It controls access to hardware and other resources
 	
 ## Kernel is Modular ##
 
 - Kernel is small
 - Kernel image is sufficient to boot to user space
-- Optiona functionality added after boot
+- Optional functionality added after boot
 - Allows for alternatives; e.g loading only required drivers for present hardware.
 	
 - Kernel resides in 
