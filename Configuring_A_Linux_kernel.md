@@ -1,4 +1,4 @@
-
+Understanding Linux Kernel Configuration
 
 ![[kernel_feature_opts.png]]
 ## make menuconfig
